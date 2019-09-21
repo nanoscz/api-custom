@@ -34,13 +34,13 @@
       "id": 6,
       "title": "almacen",
       "url": "/almacen",
-      "api": "https://api.almacen.ctrl.cps.com"
+      "api": "https://api.almacen.cps.com"
     },
     {
       "id": 7,
       "title": "tecnicos",
       "url": "/tecnicos",
-      "api": "https://api.tecnicos.ctrl.cps.com"
+      "api": "https://api.tecnicos.cps.com"
     }
   ]
 }
