@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "sistema",
+      "url": "/sistema",
+      "api": "https://api.sistema.cps.com"
+    },
+    {
+      "id": 2,
+      "title": "rrhh",
+      "url": "/rrhh",
+      "api": "https://api.rrhh.cps.com"
+    },
+    {
+      "id": 3,
+      "title": "contabilidad",
+      "url": "/contabilidad",
+      "api": "https://api.contabilidad.cps.com"
+    },
+    {
+      "id": 4,
+      "title": "administracion",
+      "url": "/administracion",
+      "api": "https://api.administracion.cps.com"
+    },
+    {
+      "id": 5,
+      "title": "control de empresas",
+      "url": "/ctrl",
+      "api": "https://api.ctrl.cps.com"
+    },
+    {
+      "id": 6,
+      "title": "almacen",
+      "url": "/almacen",
+      "api": "https://api.almacen.ctrl.cps.com"
+    },
+    {
+      "id": 7,
+      "title": "tecnicos",
+      "url": "/tecnicos",
+      "api": "https://api.tecnicos.ctrl.cps.com"
+    }
+  ]
+}
