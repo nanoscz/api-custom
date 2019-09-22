@@ -10,13 +10,13 @@
       "id": 2,
       "title": "rrhh",
       "url": "/cards",
-      "api": "https://jsonplaceholder.typicode.com/photos"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     },
     {
       "id": 3,
       "title": "contabilidad",
       "url": "/tables",
-      "api": "https://jsonplaceholder.typicode.com/comments"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     },
     {
       "id": 4,
@@ -28,13 +28,13 @@
       "id": 5,
       "title": "control de empresas",
       "url": "/cards",
-      "api": "https://jsonplaceholder.typicode.com/photos"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     },
     {
       "id": 6,
       "title": "almacen",
       "url": "/tables",
-      "api": "https://jsonplaceholder.typicode.com/comments"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     }
   ]
 }
