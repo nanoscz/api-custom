@@ -4,37 +4,37 @@
       "id": 1,
       "title": "sistema",
       "url": "/list",
-      "api": "https://api.sistema.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     },
     {
       "id": 2,
       "title": "rrhh",
       "url": "/cards",
-      "api": "https://api.rrhh.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/photos"
     },
     {
       "id": 3,
       "title": "contabilidad",
       "url": "/tables",
-      "api": "https://api.contabilidad.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/comments"
     },
     {
       "id": 4,
       "title": "administracion",
       "url": "/list",
-      "api": "https://api.administracion.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/albums"
     },
     {
       "id": 5,
       "title": "control de empresas",
       "url": "/cards",
-      "api": "https://api.ctrl.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/photos"
     },
     {
       "id": 6,
       "title": "almacen",
       "url": "/tables",
-      "api": "https://api.almacen.cps.com"
+      "api": "https://jsonplaceholder.typicode.com/comments"
     }
   ]
 }
