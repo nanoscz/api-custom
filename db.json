@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "sistema",
-      "url": "/general",
+      "url": "/list",
       "api": "https://api.sistema.cps.com"
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": 4,
       "title": "administracion",
-      "url": "/general",
+      "url": "/list",
       "api": "https://api.administracion.cps.com"
     },
     {
@@ -35,12 +35,6 @@
       "title": "almacen",
       "url": "/tables",
       "api": "https://api.almacen.cps.com"
-    },
-    {
-      "id": 7,
-      "title": "tecnicos",
-      "url": "/general",
-      "api": "https://api.tecnicos.cps.com"
     }
   ]
 }
